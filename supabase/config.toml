@@ -1,0 +1,16 @@
+project_id = "strnhctpgelvcjtknzod"
+
+[functions.analyze-sentiment]
+verify_jwt = false
+
+[functions.fetch-news]
+verify_jwt = false
+
+[functions.auto-tag-news]
+verify_jwt = false
+
+[functions.send-daily-digest]
+verify_jwt = false
+
+[functions.recategorize-news]
+verify_jwt = false
