@@ -131,3 +131,14 @@ Yapay zeka odaklı uygulamalar, veri boru hatları (data pipelines) ve modern we
   <br/>
   Made with ❤️ for high-performance intelligence mapping.
 </div>
+
+<img width="1919" height="1022" alt="Ekran görüntüsü 2026-02-08 205127" src="https://github.com/user-attachments/assets/c669df2f-2df6-40af-b3ef-6ef16762fa0e" />
+
+<img width="1919" height="1020" alt="Ekran görüntüsü 2026-02-08 205143" src="https://github.com/user-attachments/assets/1c3fc724-c1e5-4381-b5c8-596d7b95f703" />
+<img width="1919" height="1016" alt="Ekran görüntüsü 2026-02-08 205214" src="https://github.com/user-attachments/assets/6f704a05-c3aa-4437-bcd3-931740c2afa5" />
+<img width="1919" height="1019" alt="Ekran görüntüsü 2026-02-08 205234" src="https://github.com/user-attachments/assets/81c6b00d-1e0c-43da-a01e-bdfecd8c4099" />
+<img width="1918" height="1023" alt="Ekran görüntüsü 2026-02-08 205243" src="https://github.com/user-attachments/assets/82d37457-9806-47a0-8271-42738b5a6741" />
+
+<img width="1919" height="1021" alt="Ekran görüntüsü 2026-02-08 205253" src="https://github.com/user-attachments/assets/3a6a846e-fa73-448d-95b4-0acf8c8a4711" />
+<img width="1918" height="1022" alt="Ekran görüntüsü 2026-02-08 205314" src="https://github.com/user-attachments/assets/43f66d95-e009-42d3-a0a4-b29e7393da57" />
+
